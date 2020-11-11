@@ -8,7 +8,7 @@ is a prose-centric version tailored to software developers. [formspree](http://f
 
 ## Demo
 
-View an example one-pager [here](http://chuckgroom.com/onepage-bio/)
+View an example one-pager [here](https://jeromelachaud.com/freelancer-theme/)
 
 ## Installation
 
@@ -37,7 +37,7 @@ See [Jekyll below for details.](#Jekyll)
 
 ## Screenshot
 
-![screenshot](https://raw.githubusercontent.com/chuckgroom/onepage-bio/master/screenshot.png)
+![screenshot]()
 
 ## Jekyll
 
